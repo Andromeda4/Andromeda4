@@ -1,4 +1,4 @@
-![logo](https://github.com/Andromeda4/Andromeda4/main/banner.gif)
+![logo](https://github.com/Andromeda4/Andromeda4/main/banner.png)
 <h1 align="center">Hi 👋, I'm Michael Assefa</h1>
 <h3 align="center">Python developer with a strong background in web development, data analysis, and machine learning.</h3>
 
